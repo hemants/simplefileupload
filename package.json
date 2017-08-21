@@ -1,0 +1,25 @@
+{
+  "name": "simplefileupload",
+  "version": "1.0.0",
+  "description": "A simple file upload example for PDF file.",
+  "main": "server.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hemants/simplefileupload.git"
+  },
+  "author": "HemantS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hemants/simplefileupload/issues"
+  },
+  "homepage": "https://github.com/hemants/simplefileupload#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "path": "^0.12.7",
+    "randomstring": "^1.1.5"
+  }
+}
